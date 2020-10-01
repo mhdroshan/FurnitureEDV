@@ -566,6 +566,7 @@ input:focus~.floating-label, input:not(:focus):valid~.floating-label {
 
 .footerData {
     margin: 40px auto;
+    text-align: center;
 }
 
 .footerData a {
