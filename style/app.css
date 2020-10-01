@@ -184,6 +184,7 @@ body {
 .sliderImage {
     height: 100vh;
     width: 100%;
+    background-position: center left;
     background-size: cover;
     background-image: url(../src/2.jpg);
     background-repeat: no-repeat;
