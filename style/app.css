@@ -29,9 +29,12 @@ body {
     margin: 10px 30px;
     font-weight: 600;
     color: #005598;
+    transition: .3s ease;
     font-size: 30px;
 }
-
+.navbar-brand h1:hover{
+    color: black;
+}
 .homeView {
     height: 100vh;
 }
