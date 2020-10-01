@@ -585,8 +585,19 @@ input:focus~.floating-label, input:not(:focus):valid~.floating-label {
     margin: 4px;
     font-size: 20px;
     cursor: pointer;
+    margin: 4px;
+    font-size: 21px;
+    cursor: pointer;
+    padding: 10px;
+    border: .3px solid;
+    border-radius: 5px;
+    transition: .4s ease;
 }
-
+.footerData i:hover{
+    color: black;
+    background-color: white;
+    border: .3px solid white;
+}
 .footerData p {
     font-size: 14px;
 }
